@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/converter/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/ConverterTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/70/stages/385/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 28 Jan 2025 11:19:01 UTC"
+record: -1

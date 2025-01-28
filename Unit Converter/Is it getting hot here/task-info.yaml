@@ -1,0 +1,21 @@
+type: edu
+custom_name: Is it getting hot here?
+files:
+  - name: src/converter/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Authors.kt
+    visible: false
+    learner_created: false
+  - name: test/Task5Test.kt
+    visible: false
+    learner_created: false
+  - name: test/TestCaseHelpers.kt
+    visible: false
+    learner_created: false
+  - name: test/WordComparer.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/70/stages/389/implement#comment
+status: Unchecked
+record: -1
