@@ -7,8 +7,17 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://hyperskill.org/projects/70/stages/385/implement#comment
-status: Solved
+status: Failed
 feedback:
-  message: Congratulations!
-  time: "Tue, 28 Jan 2025 11:19:01 UTC"
-record: -1
+  message: |-
+    Error in test #1
+
+    Program ran out of input. You tried to read more than expected.
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    Enter a number and a measure:
+  time: "Tue, 28 Jan 2025 11:56:21 UTC"
+record: 1
