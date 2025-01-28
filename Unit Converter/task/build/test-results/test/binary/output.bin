@@ -1,35 +1,82 @@
 [1;31m
 Start test 1[0m
- Enter a number and a measure: 
-> 25 kilometers
-25 kilometers is 25000 meters
+*Enter a number and a measure of length: 
+> 2 km
+!2.0 kilometers is 2000.0 meters
 [1;31m
 Start test 2[0m
- Enter a number and a measure: 
-> 26 KM
-26 kilometers is 26000 meters
+*Enter a number and a measure of length: 
+> 234 centimeters
+"234.0 centimeters is 2.34 meters
 [1;31m
 Start test 3[0m
- Enter a number and a measure: 
-> 13 km
-13 kilometers is 13000 meters
+*Enter a number and a measure of length: 
+> 1000 millimeters
+!1000.0 millimeters is 1.0 meter
 [1;31m
 Start test 4[0m
- Enter a number and a measure: 
-> 1 kilometer
-1 kilometer is 1000 meters
+*Enter a number and a measure of length: 
+
+> 1 miles
+1.0 mile is 1609.35 meters
 [1;31m
 Start test 5[0m
- Enter a number and a measure: 
-> 1 kIlOmeter
-1 kilometer is 1000 meters
+*Enter a number and a measure of length: 
+> 123.456 YARDS
+%123.456 yards is 112.8881664 meters
 [1;31m
 Start test 6[0m
- Enter a number and a measure: 
-> 17 KILOMETERS
-17 kilometers is 17000 meters
+*Enter a number and a measure of length: 
+> 12.9 feet
+(12.9 feet is 3.9319200000000003 meters
 [1;31m
 Start test 7[0m
- Enter a number and a measure: 
-> 13 kn
-Wrong input
+*Enter a number and a measure of length: 
+	> 2.1 IN
+2.1 inches is 0.05334 meters
+[1;31m
+Start test 8[0m
+*Enter a number and a measure of length: 
+	> 000 KM
+0.0 kilometers is 0.0 meters
+[1;31m
+Start test 9[0m
+*Enter a number and a measure of length: 
+	> 000 cm
+0.0 centimeters is 0.0 meters
+[1;31m
+Start test 10[0m
+*Enter a number and a measure of length: 
+> 000.0 feet
+0.0 feet is 0.0 meters
+[1;31m
+Start test 11[0m
+*Enter a number and a measure of length: 
+> 00.00 yd
+0.0 yards is 0.0 meters
+[1;31m
+Start test 12[0m
+*Enter a number and a measure of length: 
+> 123.456 YaRd
+%123.456 yards is 112.8881664 meters
+[1;31m
+Start test 13[0m
+*Enter a number and a measure of length: 
+> 0.001 Km
+0.001 kilometers is 1.0 meter
+[1;31m
+Start test 14[0m
+*Enter a number and a measure of length: 
+	> 100 cm
+ 100.0 centimeters is 1.0 meter
+[1;31m
+Start test 15[0m
+*Enter a number and a measure of length: 
+
+> 1000 mm
+!1000.0 millimeters is 1.0 meter
+[1;31m
+Start test 16[0m
+*Enter a number and a measure of length: 
+> 100 cats
+ Wrong input. Unknown unit cats
