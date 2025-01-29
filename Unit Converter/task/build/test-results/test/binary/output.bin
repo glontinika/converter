@@ -1,82 +1,27 @@
 [1;31m
 Start test 1[0m
-*Enter a number and a measure of length: 
-> 2 km
-!2.0 kilometers is 2000.0 meters
-[1;31m
-Start test 2[0m
-*Enter a number and a measure of length: 
-> 234 centimeters
-"234.0 centimeters is 2.34 meters
-[1;31m
-Start test 3[0m
-*Enter a number and a measure of length: 
-> 1000 millimeters
-!1000.0 millimeters is 1.0 meter
-[1;31m
-Start test 4[0m
-*Enter a number and a measure of length: 
-
-> 1 miles
-1.0 mile is 1609.35 meters
-[1;31m
-Start test 5[0m
-*Enter a number and a measure of length: 
-> 123.456 YARDS
-%123.456 yards is 112.8881664 meters
-[1;31m
-Start test 6[0m
-*Enter a number and a measure of length: 
-> 12.9 feet
-(12.9 feet is 3.9319200000000003 meters
-[1;31m
-Start test 7[0m
-*Enter a number and a measure of length: 
-	> 2.1 IN
-2.1 inches is 0.05334 meters
-[1;31m
-Start test 8[0m
-*Enter a number and a measure of length: 
-	> 000 KM
-0.0 kilometers is 0.0 meters
-[1;31m
-Start test 9[0m
-*Enter a number and a measure of length: 
-	> 000 cm
-0.0 centimeters is 0.0 meters
-[1;31m
-Start test 10[0m
-*Enter a number and a measure of length: 
-> 000.0 feet
-0.0 feet is 0.0 meters
-[1;31m
-Start test 11[0m
-*Enter a number and a measure of length: 
-> 00.00 yd
-0.0 yards is 0.0 meters
-[1;31m
-Start test 12[0m
-*Enter a number and a measure of length: 
-> 123.456 YaRd
-%123.456 yards is 112.8881664 meters
-[1;31m
-Start test 13[0m
-*Enter a number and a measure of length: 
-> 0.001 Km
-0.001 kilometers is 1.0 meter
-[1;31m
-Start test 14[0m
-*Enter a number and a measure of length: 
-	> 100 cm
- 100.0 centimeters is 1.0 meter
-[1;31m
-Start test 15[0m
-*Enter a number and a measure of length: 
-
-> 1000 mm
-!1000.0 millimeters is 1.0 meter
-[1;31m
-Start test 16[0m
-*Enter a number and a measure of length: 
-> 100 cats
- Wrong input. Unknown unit cats
+HEnter what you want to convert (or exit): > 1 degree Celsius to kelvins
+%1.0 degree Celsius is 274.15 kelvins
+
+<Enter what you want to convert (or exit): > -272.15 dc to K
+&-272.15 degrees Celsius is 1.0 kelvin
+
+9Enter what you want to convert (or exit): > 1 kn to feet
+*Conversion from ??? to feet is impossible
+
+9Enter what you want to convert (or exit): > 1 km to feet
+(1.0 kilometer is 3280.839895013123 feet
+
+>Enter what you want to convert (or exit): > 3 pount to ounces
+,Conversion from ??? to ounces is impossible
+
+>Enter what you want to convert (or exit): > 3 pound to ounces
+'3.0 pounds is 47.99999999999999 ounces
+
+?Enter what you want to convert (or exit): > 3 kelvins to grams
+/Conversion from kelvins to grams is impossible
+
+>Enter what you want to convert (or exit): > 3 grams to meters
+.Conversion from grams to meters is impossible
+
+1Enter what you want to convert (or exit): > exit

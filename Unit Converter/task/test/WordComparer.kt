@@ -77,11 +77,8 @@ class WordComparer(
 
     fun compare(): CheckResult {
         // I am author
-        val myTokens = tokenizeWordsRegex(myStr)
-        val hisTokens = tokenizeWordsRegex(hisStr)
-//        println("authorString: $myStr")
-//        println("authorTokens: $myTokens")
-//        println("studentTokens: $hisTokens")
+        val myTokens = tokenizeWordsRegex(myStr.toLowerCase())
+        val hisTokens = tokenizeWordsRegex(hisStr.toLowerCase())
 
         val badTokenIdx = myTokens.zip(hisTokens).indexOfFirst { (my, his) -> my != his }
 
